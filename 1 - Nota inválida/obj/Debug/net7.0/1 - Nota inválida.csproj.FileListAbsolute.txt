@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\bin\Debug\net7.0\1 - Nota inválida.exe
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\bin\Debug\net7.0\1 - Nota inválida.deps.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\bin\Debug\net7.0\1 - Nota inválida.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\bin\Debug\net7.0\1 - Nota inválida.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\bin\Debug\net7.0\1 - Nota inválida.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\refint\1 - Nota inválida.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\1 - Nota inválida.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\1 - Nota inválida\obj\Debug\net7.0\ref\1 - Nota inválida.dll

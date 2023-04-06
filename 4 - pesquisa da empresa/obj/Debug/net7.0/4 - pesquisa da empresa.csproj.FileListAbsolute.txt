@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\bin\Debug\net7.0\4 - pesquisa da empresa.exe
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\bin\Debug\net7.0\4 - pesquisa da empresa.deps.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\bin\Debug\net7.0\4 - pesquisa da empresa.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\bin\Debug\net7.0\4 - pesquisa da empresa.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\bin\Debug\net7.0\4 - pesquisa da empresa.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\refint\4 - pesquisa da empresa.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\4 - pesquisa da empresa.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\4 - pesquisa da empresa\obj\Debug\net7.0\ref\4 - pesquisa da empresa.dll

@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\bin\Debug\net7.0\2 - Nome e senha.exe
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\bin\Debug\net7.0\2 - Nome e senha.deps.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\bin\Debug\net7.0\2 - Nome e senha.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\bin\Debug\net7.0\2 - Nome e senha.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\bin\Debug\net7.0\2 - Nome e senha.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\refint\2 - Nome e senha.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\2 - Nome e senha.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\2 - Nome e senha\obj\Debug\net7.0\ref\2 - Nome e senha.dll

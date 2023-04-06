@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\bin\Debug\net7.0\3 - tabuada.exe
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\bin\Debug\net7.0\3 - tabuada.deps.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\bin\Debug\net7.0\3 - tabuada.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\bin\Debug\net7.0\3 - tabuada.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\bin\Debug\net7.0\3 - tabuada.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\refint\3 - tabuada.dll
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.pdb
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\3 - tabuada.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicio-estruturasderepeticao\3 - tabuada\obj\Debug\net7.0\ref\3 - tabuada.dll
