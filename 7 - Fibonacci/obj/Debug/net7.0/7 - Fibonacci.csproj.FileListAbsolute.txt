@@ -1,0 +1,15 @@
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\bin\Debug\net7.0\7 - Fibonacci.exe
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\bin\Debug\net7.0\7 - Fibonacci.deps.json
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\bin\Debug\net7.0\7 - Fibonacci.runtimeconfig.json
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\bin\Debug\net7.0\7 - Fibonacci.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\bin\Debug\net7.0\7 - Fibonacci.pdb
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.csproj.AssemblyReference.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.AssemblyInfoInputs.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.AssemblyInfo.cs
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.csproj.CoreCompileInputs.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\refint\7 - Fibonacci.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.pdb
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\7 - Fibonacci.genruntimeconfig.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\7 - Fibonacci\obj\Debug\net7.0\ref\7 - Fibonacci.dll

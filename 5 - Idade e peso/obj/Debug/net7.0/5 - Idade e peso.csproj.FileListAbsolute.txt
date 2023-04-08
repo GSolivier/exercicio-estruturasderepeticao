@@ -1,0 +1,15 @@
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\bin\Debug\net7.0\5 - Idade e peso.exe
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\bin\Debug\net7.0\5 - Idade e peso.deps.json
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\bin\Debug\net7.0\5 - Idade e peso.runtimeconfig.json
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\bin\Debug\net7.0\5 - Idade e peso.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\bin\Debug\net7.0\5 - Idade e peso.pdb
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.csproj.AssemblyReference.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.AssemblyInfoInputs.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.AssemblyInfo.cs
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.csproj.CoreCompileInputs.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\refint\5 - Idade e peso.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.pdb
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\5 - Idade e peso.genruntimeconfig.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\5 - Idade e peso\obj\Debug\net7.0\ref\5 - Idade e peso.dll
